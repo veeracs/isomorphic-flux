@@ -1,0 +1,24 @@
+{
+  "name": "isomorphic-flux",
+  "version": "1.0.0",
+  "description": "isomorphic-flux",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/veeracs/isomorphic-flux.git"
+  },
+  "author": "Chandra Sekhar Veera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veeracs/isomorphic-flux/issues"
+  },
+  "homepage": "https://github.com/veeracs/isomorphic-flux",
+  "devDependencies": {
+    "babel-core": "^5.8.19",
+    "babel-loader": "^5.3.2",
+    "express": "^4.13.1",
+    "node-jsx": "^0.13.3",
+    "react": "^0.13.3",
+    "webpack": "^1.10.5"
+  }
+}
