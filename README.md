@@ -1,1 +1,1 @@
-# isomorphic-flux
+# A trivial isomorphic-flux playground.
